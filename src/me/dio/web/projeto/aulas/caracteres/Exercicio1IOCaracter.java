@@ -65,6 +65,9 @@ public class Exercicio1IOCaracter {
             line = br.readLine();
         }while (!line.isEmpty());
 
+        //Precisamos descarregar nossas informações utilizando o método flush
+        bw.flush();
+
         //Fechamos o fluxo de entrada
         br.close();
         //Fechamos o fluxo de saída
