@@ -1,4 +1,4 @@
-package me.dio.web.projeto.aulas.caracteres;
+package me.dio.web.projeto.aulas.IOCharacter;
 
 
 import java.io.*;

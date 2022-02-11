@@ -1,4 +1,4 @@
-package me.dio.web.projeto.aulas.caracteres;
+package me.dio.web.projeto.aulas.IOCharacter;
 
 /**
  * - Abra o teclado para escrever 3 filmes
